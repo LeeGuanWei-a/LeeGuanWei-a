@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @李观伟
 - 👀 I’m interested in JavaSpringBoot and JavaSSM.
-- 🌱 I’m currently learning JavaSpringBoot.
+- 🌱 I’m currently learning SpringSSM and SpringBoot.
 - 📫 You can reach me in this way.  leeanthony1998@outlook.com
 
 <!---
