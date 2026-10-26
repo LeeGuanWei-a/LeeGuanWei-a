@@ -6,7 +6,7 @@
 - 💻 5 年 Java 后端开发经验，专注业务系统与移动端应用落地
 - 🧩 熟悉前后端一体开发：Spring Boot 2 + Vue 2 + uni-app
 - 📱 有 WebView 混合开发经验，独立参与过 Android App 的开发
-- 🚀 近期用 AI 辅助做了一个多版本兼容的后台脚手架：[base-postgresql-vue3](https://github.com/LeeGuanWei-a/base-postgresql-vue3)
+- 🚀 近期用 AI 辅助做了一个多版本兼容的前后台,移动端脚手架：[base-postgresql-vue3](https://github.com/LeeGuanWei-a/base-postgresql-vue3)
 - 📫 联系我：**leeanthony1998@outlook.com**
 
 ---
